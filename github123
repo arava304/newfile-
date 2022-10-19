@@ -1,0 +1,27 @@
+What is a Web Application
+A web application is computer software that can be accessed using any web browser. Usually, the frontend of a web application is created using the scripting languages such as HTML, CSS, and JavaScript, supported by almost all web browsers. In contrast, the backend is created by any of the programming languages such as Java, Python, Php, etc., and databases. Unlike the mobile application, there is no specific tool for developing web applications; we can use any of the supported IDE for developing the web application.
+
+Web Server and Client
+The web server is a process that handles the client's request and responds. It processes the request made by the client by using the related protocols. The main function of the webserver is to store the request and respond to them with web pages. It is a medium between client and server. For example, Apache is a leading webserver.
+
+A client is a software that allows users to request and assist them in communicating with the server. The web browsers are the clients in a web application; some leading clients are Google Chrome, Firefox, Safari, Internet Explorer, etc.
+
+HTML and HTTP
+The HTML stands for HyperText Markup Language; it is a common language for Web Server and Web Client communication. Since both the web server and web client are two different software components of the web, we need a language that communicates between them.
+
+The HTTP stands for HyperText Transfer Protocol; it is a communication protocol between the client and the server. It runs on top of the TCP/IP protocol.
+
+Some of the integral components of an HTTP Request are as following:
+
+
+HTTP Method: The HTTP method defines an action to be performed; usually, they are GET, POST, PUT, etc.
+
+URL: URL is a web address that is defined while developing a web application. It is used to access a webpage.
+
+Form Parameters: The form parameter is just like an argument in a Java method. It is passed to provide the details such as user, password details on a login page.
+
+What is URL
+URL stands for Universal Resource Locator used to locate the server and resource. It is an address of a web page. Every web page on a project must have a unique name.
+
+A URL looks like as follows 
+
